@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ひとりごと - Hitorigoto",
+  "base_artist": "Omoinotake",
+  "createdAt": "2026-02-10T14:22:37.257745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/01_ひとりごと_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/02_ひとりごと_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/03_ひとりごと_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "新山詩織",
+      "has_synced": true,
+      "path": "select/04_ひとりごと_新山詩織.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_ひとりごと_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "緑黄色社会",
+      "has_synced": true,
+      "path": "select/06_ひとりごと_緑黄色社会.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/07_ひとりごと_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/08_ひとりごと_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "Mishio Ogawa",
+      "has_synced": false,
+      "path": "select/09_ひとりごと_Mishio_Ogawa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ひとりごと",
+      "artist": "FictionJunction",
+      "has_synced": false,
+      "path": "select/10_ひとりごと_FictionJunction.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ひとりごと -karaoke-",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/11_ひとりごと_-karaoke-_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monologue (ひとりごと)",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/12_Monologue_(ひとりごと)_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monologue (ひとりごと)",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/13_Monologue_(ひとりごと)_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ひとりごと -Instrumental-",
+      "artist": "FictionJunction",
+      "has_synced": false,
+      "path": "select/14_ひとりごと_-Instrumental-_FictionJunction.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ひとりごと KARAOKE",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/15_ひとりごと_KARAOKE_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ひとりごと -hane Ver.-",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/16_ひとりごと_-hane_Ver.-_KOTOKO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとりごと",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_ひとりごと_Omoinotake.txt"
+    }
+  ]
+}
